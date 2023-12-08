@@ -1,5 +1,7 @@
 import numpy as np
 
+if i type this in, will you blame me?
+
 def peopleBlackJack(decks):
     if decks == 0:
         goal_state = 21
